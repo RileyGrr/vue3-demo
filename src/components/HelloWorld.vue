@@ -86,7 +86,7 @@
   </div>
 </template>
 
-sh-keygen -t rsa -C "riley_r@163.com"
+
 <script>
 export default {
   name: 'HelloWorld',
@@ -95,6 +95,7 @@ export default {
   }
 }
 </script>
+
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
@@ -105,6 +106,7 @@ ul {
   list-style-type: none;
   padding: 0;
 }
+
 li {
   display: inline-block;
   margin: 0 10px;
